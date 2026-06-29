@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas
+openpyxl
+pymupdf
+pillow
+pytesseract
+google-genai
